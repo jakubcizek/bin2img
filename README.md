@@ -4,7 +4,7 @@ A tiny utility that converts any file into one or more PNG images (and back), ea
 
 ## Requirements
 
-- Python 3
+- Python
 - [Pillow](https://pillow.readthedocs.io/) library
 
 ## Scripts
